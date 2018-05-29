@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2012\Projects\KTV\KTV\bin\Debug\KTV.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\bin\Debug\KTV.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\bin\Debug\KTV.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.KTV1.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.Form2.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.Form3.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.Form4.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.Form5.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.Form6.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\KTV\KTV\obj\Debug\KTV.pdb
